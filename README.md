@@ -25,7 +25,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sena-durna-1b168421b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sena-nur-durna-1b168421b/)
 - ✉️ senanurdurna@gmail.com
 
 ---
