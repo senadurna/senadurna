@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sena Nur Durna 👋</h1>
 
 <p align="center">
-  <i>Frontend Developer • EdTech Enthusiast • UI/UX & Digital Design Lover</i>
+  <i>Frontend Developer • Graphic Designer</i>
 </p>
 
 ---
