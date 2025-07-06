@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sena Nur Durna 👋</h1>
 
-<!--
-**senadurna/senadurna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Frontend Developer • EdTech Enthusiast • UI/UX & Digital Design Lover</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🎓 I’m a final-year student at Yıldız Technical University, studying Computer Education and Instructional Technology.  
+💻 Currently focusing on web development (HTML, CSS, JavaScript) and user-centered design.  
+🎨 I also work on graphic design, content creation, and video editing.  
+🌱 Actively learning React and eager to build creative and educational products.
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 HTML | CSS | JavaScript  
+- ⚙️ Git | GitHub  
+- 🎨 Figma | Adobe Illustrator & Photoshop  
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sena-durna-1b168421b/)
+- ✉️ senanurdurna@gmail.com
+
+---
+
+*Thanks for visiting my profile! 🙌*
